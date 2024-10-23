@@ -1,6 +1,5 @@
 ## Hi there, my name is Juan
-
-## Please find below some additional information :)
+Please find below some additional information :)
 
 ### ⚙️ GitHub Analytics
 
