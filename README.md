@@ -55,7 +55,7 @@ I'm a software developer based in&#128205São Paulo, Brazil with a Bsc in Scienc
 <p align="left">👥 Accounts<br>
   <a href="mailto:juanocarvalho@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:juanocarvalho@gmail.com" alt="Gmail"/></a>
-  <a href="linkedin.com/in/juanocarvalho" title="LinkedIn">
+  <a href="https://linkedin.com/in/juanocarvalho" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/juanocarvalho" alt="LinkedIn"/></a>
   <a href="https://accounts.pega.com/profile/juano" title="PEGA Profile">
   <img src="https://img.shields.io/badge/-PEGA-darkblue?style=flat-square&logo=pegasusairlines&logoColor=white&link=https://accounts.pega.com/profile/juano" alt="PEGA"/</a>
