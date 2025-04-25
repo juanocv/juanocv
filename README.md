@@ -1,7 +1,7 @@
 ## Hi there, my name is Juan 🤠
 
 <p align="left"> 
-I'm a software developer based in&#128205São Paulo, Brazil with a Bsc in Science and Technology by Federal University of ABC (<a href="https://www.ufabc.edu.br">UFABC</a>).<br>I'm passionate about functional programming, low/no code development (as opposite as this may sound) and machine learning. Currently diving deeper into computer vision applied to urban infrastructure for my ongoing CS thesis at UFABC as well.
+I'm a human being based in&#128205São Paulo, Brazil with a Bsc in Science and Technology by Federal University of ABC (<a href="https://www.ufabc.edu.br">UFABC</a>).<br>I'm passionate about functional programming, low/no code development (as opposite as this may sound) and machine learning. Currently diving deeper into computer vision applied to urban infrastructure for my ongoing CS thesis at UFABC as well.
 </p>
 
 <p align="left">I'm also a Software Developer at <a href="https://www.accenture.com">Accenture</a> daily dealing with software development, design architecture and support in a low code platform known as <a href="https://www.pega.com">PEGA</a>. Currently transitioning to the data field, seeking opportunities in Machine Learning Engineering, Data Engineering, Data Science, and related areas.
