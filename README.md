@@ -1,10 +1,12 @@
 ## Hi there, my name is Juan 🤠
 
 <p align="left"> 
-I'm a human being based in&#128205São Paulo, Brazil with a Bsc in Science and Technology by Federal University of ABC (<a href="https://www.ufabc.edu.br">UFABC</a>).<br>I'm passionate about functional programming, machine learning and data science. Currently diving deeper into computer vision applied to urban infrastructure for my ongoing CS thesis at UFABC as well.
+I'm a human being based in&#128205São Paulo, Brazil with a Bsc in Science and Technology by Federal University of ABC (<a href="https://www.ufabc.edu.br">UFABC</a>).<br>I'm passionate about functional programming, machine learning and data science. Currently diving deeper into computer vision applied to urban infrastructure for my ongoing CS thesis at UFABC.
 </p>
 
-<p align="left">I'm also a Machine Learning Engineer at <a href="https://www.accenture.com">Accenture</a> helping clients on deploying ML Models into real, performatic, scalable systems. In addition I have previous experience as a software engineer daily dealing with software development, design architecture and support in a low code platform known as <a href="https://www.pega.com">PEGA</a>. 
+<p align="left">Corporatively speaking, I'm a Machine Learning Engineer at <a href="https://www.accenture.com">Accenture</a> helping clients on deploying ML Models into real, performatic, scalable systems.
+
+I also have previous experience as a software engineer daily dealing with software development, design architecture and support in a low code platform known as <a href="https://www.pega.com">PEGA</a>. 
   
 <p align="left">👥 Accounts<br>
   <a href="mailto:juanocarvalho@gmail.com" title="Gmail">
