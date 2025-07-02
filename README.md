@@ -6,7 +6,7 @@ I'm a human being based in&#128205São Paulo, Brazil with a Bsc in Science and T
 
 <p align="left">Corporatively speaking, I currently work as a Machine Learning Engineer at <a href="https://www.accenture.com">Accenture</a>, helping clients on assuring the deploy, validation and automatization of ML models into real, performatic, scalable systems.
 
-I also have previous experience as a software engineer daily dealing with software development, design architecture and support in a low code platform known as <a href="https://www.pega.com">PEGA</a>. 
+I also have previous experience as a software engineer -- having dealt with software development, design architecture and support in a low code platform known as <a href="https://www.pega.com">PEGA</a>. 
   
 <p align="left">👥 Accounts<br>
   <a href="mailto:juanocarvalho@gmail.com" title="Gmail">
