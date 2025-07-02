@@ -4,7 +4,7 @@
 I'm a human being based in&#128205São Paulo, Brazil with a Bsc in Science and Technology by Federal University of ABC (<a href="https://www.ufabc.edu.br">UFABC</a>).<br>I'm passionate about functional programming, machine learning and data science. Currently diving deeper into computer vision applied to urban infrastructure for my ongoing CS thesis at UFABC.
 </p>
 
-<p align="left">Corporatively speaking, I currently work as a Machine Learning Engineer at <a href="https://www.accenture.com">Accenture</a> helping clients on the successful deploy, validation and automatization of ML models into real, performatic, scalable systems.
+<p align="left">Corporatively speaking, I currently work as a Machine Learning Engineer at <a href="https://www.accenture.com">Accenture</a>, helping clients on assuring the deploy, validation and automatization of ML models into real, performatic, scalable systems.
 
 I also have previous experience as a software engineer daily dealing with software development, design architecture and support in a low code platform known as <a href="https://www.pega.com">PEGA</a>. 
   
